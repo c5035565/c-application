@@ -110,7 +110,7 @@ namespace My_Application
 
                 Console.WriteLine($"Welcome {this._username}\nYou can start tracking your reciepies");
                 
-                application_manager.startapp();
+                 
 
 
                 return;
